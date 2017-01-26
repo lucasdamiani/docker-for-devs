@@ -1,3 +1,6 @@
 [submodule "hyndsite/docker-4-devs"]
 	path = hyndsite/docker-4-devs
 	url = https://github.com/hyndsite/docker-4-devs
+[submodule "hyndsite/docker4dev-react-hmr"]
+	path = hyndsite/docker4dev-react-hmr
+	url = https://github.com/hyndsite/docker4dev-react-hmr
